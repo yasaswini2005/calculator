@@ -1,0 +1,46 @@
+.container  {
+    color: black;
+    list-style: none;
+    display: flex;
+    width: 16%;
+    border: 4px solid rgb(0, 0, 0);
+    height: 275px;
+   display:flex;
+margin-top: 15px;}
+
+h4{ font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+font-size: 30px;
+border: 2px solid red;
+justify-content: center;
+display: flex;
+background-color: aqua;}
+
+   
+#y { 
+    border: 2px solid black;
+    height: 40px;
+    background-color: black;
+    width: 20px;
+    color: white;
+   }
+      
+  .container {
+    display: flex;
+    flex-direction: column;
+  }
+  #g1{
+    flex-direction: row;
+    display: flex;
+  }
+  #g2{
+    flex-direction: row;
+    display: flex;
+  }
+  h2{
+    color: white;
+  }
+  h5{
+    border: 2px solid red;
+    background-color: aquamarine;
+  }
+ 
